@@ -1,6 +1,3 @@
-[
-![instagram Badge](https://img.shields.io/badge/@bobobo._.0628-E4405F?style=flat-square&logo=Instagram&logoColor=white)
-](https://www.instagram.com/bobobo._.0628/)
 <br/>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bykimby)
 <br/>
